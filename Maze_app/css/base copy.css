@@ -1,0 +1,10 @@
+body 
+{
+	font-family:Arial, Monospace;
+	font-weight: bold;
+	font-color:blue;
+	font-size: medium;
+	background-color: #66dffd;
+	margin: 0px;
+	overflow: hidden;
+}
